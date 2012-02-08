@@ -29,3 +29,27 @@ XML est un sous ensemble de SGML (Standard Generalized Markup Language), défini
 
 - XML : un langage séparant présentation et contenu
 
+XML est un langage qui sépare le contenu de la présentation
+
+L'exemple ci-dessus pourrait être présenté de la façon suivante :
+
+Bonjour,
+La référence du titre diffusé sur XMLfm est :
+The fool on the hill (John Lennon Paul McCartney) interprété par The Beatles.
+
+Cordialement,
+
+XMLfm
+Ou encore :
+
+Titre du morceau demandé : The fool on the hill
+Par : The Beatles
+Ainsi, une source de données unique permet une variété de présentations à partir d'un même contenu grâce à la technologie de transformation associée à des feuilles de style (XSLT pour eXtensible Stylesheet Language Transformation). À partir d'un document XML, il est possible de produire un autre document dans un langage utilisant des balises (XML, XHTML, HTML, WML) ou dans un format à vocation de publication (Word, PDF texte)
+
+En reprenant ces premiers éléments, nous constatons que XML est un langage qui permet de forger simplement des vocabulaires adaptés à la nature des données à structurer. Ces vocabulaires définissent des documents portables et indépendants des systèmes sur lesquels ils sont exploités. Ces documents peuvent être utilisés à des fins de traitement, de publication, d'archivage ou d'échange. Pour les échanges, qu'ils soient internes (entre applications du même système d'information) ou externes (avec des systèmes d'information de partenaires d'affaires), on mesure l'importance capitale de la correspondance des formats et de la définition de la sémantique des données échangées. Afin de permettre l'ajustement entre ce format d'échange et les formats internes propres aux systèmes d'information des partenaires, l'intérêt des technologies de transformation XSLT est évident. Enfin, pour la publication, l'apport de XSLT est double en permettant, d'une part, des mises en forme multiples adaptées au destinataire et, d'autre part, de diffuser la même source d'information selon des canaux différents (Web, PDF, WAP, e-mail, CD-ROM) sans duplication d'information. XML est donc bien un métalangage dont l'universalité en fait de facto un espéranto et a vocation d'être un format pivot tant dans les échanges que dans la publication multi-canal.
+
+http://xmlfr.org/documentations/articles/030220-0001
+
+- XML : un langage permettant la standardisation des données
+
+
