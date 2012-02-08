@@ -4,3 +4,26 @@
 XML a été mis au point par le XML Working Group sous l'égide du World Wide Web Consortium (W3C) dès 1996. Depuis le 10 février 1998, les spécifications XML 1.0 ont été reconnues comme recommandations par le W3C, ce qui en fait un langage reconnu. (Tous les documents liés à la norme XML sont consultables et téléchargeables sur le site web du W3C, http://www.w3.org/XML/)
 
 XML est un sous ensemble de SGML (Standard Generalized Markup Language), défini par le standard ISO8879 en 1986, utilisé dans le milieu de la Gestion Electronique Documentaire (GED). XML reprend la majeure partie des fonctionnalités de SGML, il s'agit donc d'une simplification de SGML afin de le rendre utilisable sur le web ! 
+
+        Avant XML
+        "Avant l'apparition de XML, existaient : 
+        - un langage de balisage normalisé, riche en sémantique mais relativement lourd à mettre en oeuvre et inadapté au Web : SGML (Standard Generalized Markup Language, ou langage normalisé de balisage généralisé - norme ISO 8879) 
+        - un langage parfaitement adapté au Web (puisque développé uniquement pour cette application) mais dont les applications sont limitées par une bibliothèque de balises figée et réduite : HTML (Hypertext Markup Language, ou langage de balisage hypertexte)."
+
+        XML francophone : FAQ
+        http://www.chez.com/xml/faq/index.htm
+
+        De HTML et SGML à XML
+        "Il convenait donc de définir un langage qui ait la facilité de mise en oeuvre de HTML tout en offrant la richesse sémantique de SGML. C'est la raison d'être de XML.
+        XML est un sous-ensemble au sens strict de SGML, dont il ne retient pas les aspects trop ciblés sur certains besoins. En cela il représente un profil d'application de la norme SGML."
+
+        XML francophone : FAQ
+        http://www.chez.com/xml/faq/index.htm
+
+        Différences entre SGML et XML
+        "XML est un langage de balisage structuré, basé sur le SGML, développé pour pallier les limites du HTML sans pour autant posséder les difficultés d'application du SGML."
+        Pour en savoir plus : lire la fiche - très claire -  sur les formats structurés SGML et XML :
+
+        BEAUDRY Guylaine, BOISMENU Gérard, "formats structurés SGML et XML". Expertise de ressources pour l'édition de revues numériques, février 2001
+        http://revues.enssib.fr/titre/6tecnic/3verselec/2forstruct.htm
+
