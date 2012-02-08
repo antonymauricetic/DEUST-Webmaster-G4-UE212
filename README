@@ -52,4 +52,12 @@ http://xmlfr.org/documentations/articles/030220-0001
 
 - XML : un langage permettant la standardisation des données
 
+XML au carrefour de la publication, de l'intégration et des échanges
 
+XML s'est aujourd'hui imposé comme langage pivot de la publication, de l'intégration et des échanges. L'ensemble des acteurs s'est aujourd'hui rallié à ce standard et on notera que même les systèmes les plus fermés proposent désormais une ouverture fondée sur XML. Les récentes adoptions du format XML dans les logiciels bureautiques (OpenOffice, Microsoft Office 11) vont contribuer à accélérer le mouvement de fond de sa généralisation et de sa banalisation.
+
+XML rend l'information facilement réutilisable. Il simplifie la gestion documentaire et ouvre son potentiel de diffusion sur Internet. Il permet aux portails d'entreprise de fédérer une information dans un format flexible et adapté à la publication multi-canal sur Internet. Il facilite l'interopérabilité et les échanges entre des systèmes d'information hétérogènes. Enfin, contrairement à certaines idées reçues, XML n'a pas vocation à remplacer ni HTML ni l'EDI conventionnel mais il contribue à enrichir fortement leur potentiel. De la même façon, il y a peu de chances de voir XML devenir le format universel de représentation des données des applications de back office. En revanche, il contribuera fortement, comme support d'interopérabilité, à leur ouverture et à leur intégration avec les autres applications de l'entreprise et de ses partenaires.
+
+
+
+Je pense qu'on peut inclure cette partie aussi : http://fr.selfhtml.org/xml/intro.htm#liberte_donnees
